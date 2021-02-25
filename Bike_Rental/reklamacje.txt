@@ -1,0 +1,13 @@
+12
+1 rafal 2 oczekujaca
+2 rafal 9 oczekujaca
+3 rafal 2 oczekujaca
+4 rafal 8 oczekujaca
+5 rafal 2 oczekujaca
+6 rafal 1 oczekujaca
+7 rafal 1 oczekujaca
+8 rafal 1 oczekujaca
+9 rafal 0 oczekujaca
+10 rafal 2 oczekujaca
+11 rafal 3 oczekujaca
+12 rafal 1 oczekujaca

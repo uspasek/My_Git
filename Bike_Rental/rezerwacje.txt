@@ -1,0 +1,4 @@
+3
+1 rafal 4 
+2 michal 6 
+3 dominika 2

@@ -1,0 +1,9 @@
+1 miejski wypozyczony sprawny 9 rafal 
+2 gorski wolny sprawny 8 - 
+3 dziedziecy wolny sprawny 5 - 
+4 gorski wypozyczony sprawny 8 - 
+5 miejski wolny sprawny 9 - 
+6 dziedziecy wypozyczony sprawny 5 michal 
+7 miejski wypozyczony sprawny 9 michal 
+8 gorski wolny zepsuty 8 - 
+9 dziedziecy wolny zepsuty 5 - 
