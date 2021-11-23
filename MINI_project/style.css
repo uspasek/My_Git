@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Mohave:wght@300;700&display=swap');
+body{
+  font-family: 'Mohave', sans-serif;
+  background: #123456;
+  color: #009999;
+  text-shadow: 2px 5px 5px black;
+}
+
+.center, .center2, .center3, .center4{
+  text-align: center;
+}
+
+#text1, #text2, #text3, #text4, #text5, #text6, #text7, #text8{
+  width: 100px;
+  background-color: lightblue;
+}
+
+.header{
+  font-weight: bold;
+  font-size: 100px;
+  text-align: center;
+}
+#result, #result2, #result3, #result4{
+  font-size: 30px;
+}
+
+#button1, #button2, #button3, #button4 {
+  background-color: aqua;
+}
