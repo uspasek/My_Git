@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Mohave:wght@300;700&display=swap');
+body{
+  font-family: 'Mohave', sans-serif;
+  background: #123456;
+  color: #009999;
+  text-shadow: 2px 5px 5px black;
+}
+
+body h1{
+  font-weight: 500;
+  margin:10px 50px;
+}
+
+#main_header{
+  border-bottom: 3px solid #000;
+  position: relative;
+  width: 100%vw;
+  background: rgba(150,200,220, 0.9);
+  top:0px;
+  text-align: center;
+}
+
+#top_stories{
+  width: 1000px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+#site_header{
+font-family: 'Mochiy Pop One', sans-serif;
+}
+
+article{
+  width: 285px;
+  display: inline-block;
+  border: 3px solid black;
+  padding: 10px;
+  margin: 10px;
+  box-shadow: 5px 5px 15px black;
+  transition:box-shadow 500ms, background 1000ms;
+}
+
+article img{
+  width: 100%;
+  height: 100%;
+}
+
+article:hover{
+  box-shadow: 15px 15px 50px black;
+  background: darkblue;
+}
+
+.obrazki{
+  height: 200px;
+  width: 100%;
+  background-size: cover !important;
+  background-position: center !important;
+}
+
+footer{
+  text-align: center !important;
+}
+
+a{
+  text-decoration:none;
+}
+
+a:hover, a.more_link.bolded_link:hover{
+  color:gray;
+}
+
+.more_link{
+  font-style:italic;
+  color: black;
+}
+
+.bolded_link{
+  font-weight: 700;
+  color: white;
+}
+
+.more_link.bolded_link{
+  color:red;
+}
+
+.my-input{
+  display: block;
+  width: 95%;
+  padding: 10px 20px;
+  color: darkblue;
+  border-radius: 5px;
+  border: 1px solid black;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 15px;
+  opacity: 0.2;
+}
+
+.my-input:focus{
+  background: lightblue;
+  border: 2px solid black;
+}
+
+article:active{
+  opacity: 0.4;
+}
+
+.my-text{
+  max-height: 300px;
+  overflow: scroll;
+  border: 2px solid black;
+}

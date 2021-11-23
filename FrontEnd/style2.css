@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Mohave:wght@300;700&display=swap');
+body{
+  font-family: 'Mohave', sans-serif;
+  background: #123456;
+  color: #009999;
+  text-shadow: 2px 5px 5px black;
+}
+
+.my-input, .my-textarea{
+  display: block;
+  width: 95%;
+  padding: 10px 20px;
+  color: darkblue;
+  border-radius: 5px;
+  border: 1px solid black;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 15px;
+  opacity: 0.2;
+}
