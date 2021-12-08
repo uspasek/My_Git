@@ -4,7 +4,9 @@ This is Michael's repository.
 Feel free to explore my code
 
 
-Created a Pip Boy project from Fallout IV
+Created a Pip Boy 3000 from Fallout IV
+
+!SAFARI ONLY!
 
 Pip Boy main Layout
 ![image](https://user-images.githubusercontent.com/72964757/145250959-7ec2032d-051d-44be-92f5-1bc6e0e1cb77.png)
