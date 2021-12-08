@@ -6,4 +6,6 @@ Feel free to explore my code
 
 Created a Pip Boy project from Fallout IV
 
-![Screenshot 2021-12-08 at 17 57 55 (2)](https://user-images.githubusercontent.com/72964757/145250808-a8abc779-532f-4071-8982-6a1166530433.png)
+Pip Boy main Layout
+![image](https://user-images.githubusercontent.com/72964757/145250959-7ec2032d-051d-44be-92f5-1bc6e0e1cb77.png)
+
