@@ -4,7 +4,7 @@ This is Michael's repository.
 Feel free to explore my code
 
 
-Created a Pip Boy 3000 from Fallout IV
+Created a Pip Boy 3000 from Fallout IV using HTML/CSS/JS and Bootstrap
 
 !SAFARI ONLY!
 
