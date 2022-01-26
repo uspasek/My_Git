@@ -12,4 +12,4 @@ Pip Boy main Layout
 ![image](https://user-images.githubusercontent.com/72964757/145250959-7ec2032d-051d-44be-92f5-1bc6e0e1cb77.png)
 
 
-Created a REST API connected to MongoDb in C# 
+Created a REST API in C# + connected with MongoDb 
