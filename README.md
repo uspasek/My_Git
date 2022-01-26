@@ -8,12 +8,12 @@ Created a Pip Boy 3000 from Fallout IV using HTML/CSS/JS, Bootstrap and jQuery.
 
 !SAFARI ONLY!
 
-Pip Boy main Layout
-<img width ="500"src="https://user-images.githubusercontent.com/72964757/145250959-7ec2032d-051d-44be-92f5-1bc6e0e1cb77.png">
+1)Pip Boy main Layout
+<img width="500" src="https://user-images.githubusercontent.com/72964757/145250959-7ec2032d-051d-44be-92f5-1bc6e0e1cb77.png">
 
 
-Created a REST API in C# + connected with MongoDb 
+2)Created a REST API in C# + connected with MongoDb 
 
-Created a Simple TicTacToe in C#
+3)Created a Simple TicTacToe in C#
 
 <img width="500" src="https://user-images.githubusercontent.com/72964757/151241643-9810709b-00bc-47f6-b65f-394c2b39ce56.png">
