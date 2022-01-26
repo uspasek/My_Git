@@ -13,7 +13,7 @@ Feel free to explore my code
 
 <img width="500" src="https://user-images.githubusercontent.com/72964757/145250959-7ec2032d-051d-44be-92f5-1bc6e0e1cb77.png">
 
-2) FrontEnd Calculator
+2) FrontEnd Calculator with HTML/CSS/JS
 
 <img width="500" src="https://user-images.githubusercontent.com/72964757/151242787-582065d2-87c3-4812-9665-3e60890031b5.png">
 
