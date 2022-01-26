@@ -15,7 +15,7 @@ Feel free to explore my code
 
 2) FrontEnd Calculator
 
-<img width="300" src="https://user-images.githubusercontent.com/72964757/151242787-582065d2-87c3-4812-9665-3e60890031b5.png">
+<img width="500" src="https://user-images.githubusercontent.com/72964757/151242787-582065d2-87c3-4812-9665-3e60890031b5.png">
 
 3) REST API in C# + connected with MongoDb 
 
